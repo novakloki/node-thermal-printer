@@ -11,6 +11,7 @@ declare enum PrinterTypes {
   STAR = "star",
   TP8017 = "TP-8017",
   M811 = "M811",
+  BT306 = "BT-306",
 }
 
 declare class ThermalPrinter {
